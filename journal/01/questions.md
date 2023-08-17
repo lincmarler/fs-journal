@@ -6,13 +6,13 @@
     > To create a new folder or directory
 
 03. What is a ***pseudo-class*** and what are some of the most common ones you think you will use?
-    > | ANSWER HERE |
+    > A pseudo-class is a keyword that apply different effects to the specific element
 
 04. What is ***specificity*** and how might you use it to your benefit?
-    > | ANSWER HERE |
+    > Specificity is what determines what rule will be applied if there's more then one targeting the same element
 
 05. What problems do you think you could run into if you over-utilized the `!important` feature?
-    > | ANSWER HERE |
+    > I could end up cancelling out rules that I don't want overpowered
 
 06. What are the three components that makeup a `CSS` rule? <br> Example:
 
@@ -22,19 +22,19 @@
         }
     ```
 
-    > | ANSWER HERE |
+    > Selector, property, value
 
 07. How do you think good design influences people when visiting a website, and what sorts of things could you convey through design alone?
-    > | ANSWER HERE |
+    > It keeps people interested and more invested in what you're trying to say or sell. You can convey professionalism, legitness, passion, and friendliness
 
 08. What is the purpose of ***wireframing***?
-    > | ANSWER HERE |
+    > To give yourself a clear outline before you get into the nitty-gritty of the code itself
 
 09. Do you think wireframes are worth the time, energy, and effort that they require? Why or Why not?
-    > | ANSWER HERE |
+    > Yes because they give you a clear plan and layout to follow and visualize without having to do any code
 
 10. Define the display `:flex property:`
-    > | ANSWER HERE |
+    > :flex property: is the rule that allows other flex rules to be applied to an element
 
 11. What `CSS` properties affect the size of a box model?
-    > | ANSWER HERE |
+    > You can use margin or padding rules to change the size of a box model
