@@ -1,23 +1,23 @@
 # A bit more CSharp and SQL
 1. What does ***inheritance*** accomplish for us in C#?
 
-  > | ANSWER HERE |
+  > allows attributes to be passed from class to class 
 
 2. How does ***member inheritance*** work in C#? Does a `Class` inherit all members of the base `Class`?
 
-  > | ANSWER HERE |
+  > it is selective inheritance rather then full inheritance 
 
 3. How does ***accessibility*** affect inheritance?
 
-  > | ANSWER HERE |
+  > the order affects how the object will be inheritated
 
 4. What is the difference between a `PRIMARY KEY` and a `FOREIGN KEY`
 
-  > | ANSWER HERE |
+  > primary key is how it is named locally and foreign is from another file
 
 5. What is an ***alias***?
 
-  > | ANSWER HERE |
+  > naming convention to make code smaller and more clean
 
 6. Demonstrate how you would query a join statement that would get all of a doctors patients from the following collections:
 
